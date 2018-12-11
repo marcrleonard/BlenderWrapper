@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/Applications/Blender/blender.app/Contents/MacOS/blender -b -P python_api/pypredef_gen.py
